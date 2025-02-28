@@ -27,7 +27,6 @@ It began as an effort to simplify and enhance everyday shopping by automating pr
 ![desktop2](https://github.com/user-attachments/assets/dc10264c-1e81-4a12-a4c5-f4dfae8ce219)
   
 ![mobile1](https://github.com/user-attachments/assets/97ef2640-0635-492e-9388-7adc0e607b34)
-
 ![mobile2](https://github.com/user-attachments/assets/58d514aa-a35e-4ffe-900d-d9fbb9af2b37)
 
 ![mobile3](https://github.com/user-attachments/assets/50de3d2a-f319-4195-a49a-4750e0017e43)
