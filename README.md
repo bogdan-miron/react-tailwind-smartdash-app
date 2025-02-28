@@ -10,15 +10,6 @@ Welcome to the **SmartDash Cart Landing Page**, a modern and responsive web appl
 
 It began as an effort to simplify and enhance everyday shopping by automating processes such as product recognition, inventory tracking, and checkout. Working with a team of fellow students, we aimed to create a solution that could make shopping more efficient and user-friendly. This project started simply as a learning opportunity, but evolved into a startup, being featured on Romanian Shark Tank and getting investments.
 
----
-
-## Features
-
-- **Responsive Design**: The landing page is fully responsive and optimized for all devices (desktop, tablet, and mobile).
-- **Modern UI**: A user-friendly interface designed with **Tailwind CSS**.
-- **Interactive Components**: Engaging animations and interactive elements built with **React.js**.
-
----
 
 ## Screenshots
 
