@@ -22,12 +22,10 @@ It began as an effort to simplify and enhance everyday shopping by automating pr
 
 ## Screenshots
 
-*Desktop View*
 ![desktop1](https://github.com/user-attachments/assets/9a42675f-b0a9-4517-a222-8cf7640517e5)
 
 ![desktop2](https://github.com/user-attachments/assets/dc10264c-1e81-4a12-a4c5-f4dfae8ce219)
   
-*Mobile View*
 ![mobile1](https://github.com/user-attachments/assets/97ef2640-0635-492e-9388-7adc0e607b34)
 
 ![mobile2](https://github.com/user-attachments/assets/58d514aa-a35e-4ffe-900d-d9fbb9af2b37)
